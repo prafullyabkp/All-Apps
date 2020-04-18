@@ -1,0 +1,35 @@
+{
+    "computergk": [
+    {
+    "id": 1,
+    "ImageUrl": "https://arupnaskarbkp.github.io/Bengali-Education-Hub/Computer-gk/icon/Computer.png",
+    "WebUrl": "https://www.google.com/",
+    "Title": "Webview-1"
+    },
+    {
+    "id": 2,
+    "ImageUrl": "https://arupnaskarbkp.github.io/Bengali-Education-Hub/Computer-gk/icon/Computer.png",
+    "WebUrl": "https://www.facebook.com/",
+    "Title": "Webview-2"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/Bengali-Education-Hub/Computer-gk/icon/Computer.png",
+    "WebUrl": "https://www.google.com/",
+    "Title": "Webview-3"
+    },
+	{
+    "id": 4,
+    "ImageUrl": "https://arupnaskarbkp.github.io/Bengali-Education-Hub/Computer-gk/icon/Computer.png",
+    "WebUrl": "https://www.google.com/",
+    "Title": "Webview-4"
+    },
+    {
+    "id": 5,
+    "ImageUrl": "https://arupnaskarbkp.github.io/Bengali-Education-Hub/Computer-gk/icon/Computer.png",
+    "WebUrl": "https://appkumar360.blogspot.com/p/jobs-in-west-bengal-app-pravicy-policy.html",
+    "Title": "Pravicy Policy"
+    }
+	    
+    ]
+    }
